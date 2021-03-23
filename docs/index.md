@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+<p align="center">
+    <a href="https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564"><img src="wp-files/logo.png"></a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/Prakhar896/WorkItOut/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Work It Out
+Work It Out is a fitness application designed to help you exercise and become fit in the easiest way possible and is your go-to for all fitness needs!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why Work It Out?
+Want to start exercising but don’t know how to? Want to tone your muscles, lose weight or simply stay fit? Then simply use this app and Work It Out.
 
-### Markdown
+With this simple and easy-to-use workout app, Work It Out would give you an incredible and enjoyable experience in working out.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We have many spectacular features such as the level feature, which gives the user experience points for each specific workout. When the user gains a specific amount of exp, he increases his level, which would be useful for a future update! This gamification feature increases the motivation of players to exercise, to unlock more levels, hence able to attract more users to use this app.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prakhar896/WorkItOut/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Download Work It Out on the App Store Now!
+[![Download Work It Out!](wp-files/downloadLogo.png)](https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564)
