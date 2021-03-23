@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564"><img src="wp-files/logo.png"></a>
+    <a href="https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564"><img src="wp-files/logo.png" height=100></a>
 </p>
 
 # Work It Out
@@ -13,4 +13,4 @@ With this simple and easy-to-use workout app, Work It Out would give you an incr
 We have many spectacular features such as the level feature, which gives the user experience points for each specific workout. When the user gains a specific amount of exp, he increases his level, which would be useful for a future update! This gamification feature increases the motivation of players to exercise, to unlock more levels, hence able to attract more users to use this app.
 
 # Download Work It Out on the App Store Now!
-[![Download Work It Out!](wp-files/downloadLogo.png)](https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564)
+[![Download Work It Out!](wp-files/downloadlogo.png)](https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564)
