@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564"><img src="wp-files/logo.png" height=100></a>
+    <a href="https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564"><img src="wp-files/logo.png" height=200></a>
 </p>
 
 # Work It Out
