@@ -14,3 +14,5 @@ We have many spectacular features such as the level feature, which gives the use
 
 # Download Work It Out on the App Store Now!
 [![Download Work It Out!](wp-files/downloadlogo.png)](https://apps.apple.com/sg/app/work-it-out-fitness-app/id1486118564)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
